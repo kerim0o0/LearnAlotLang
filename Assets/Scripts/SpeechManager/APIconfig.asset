@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 308dae6b2fed07749b36e0b6c431af80, type: 3}
+  m_Name: APIconfig
+  m_EditorClassIdentifier: 
+  SpeechServiceAPIKey: 16893b2594104ceaba6ae7bd5ab0e594
+  SpeechServiceRegion: westus
+  FromLanguage: en-us
+  OpenAIAPIKey: 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
+  OpenAIAPIOrg: org-7cUcK6jPZ8m5Bh0uhiLMlohS
